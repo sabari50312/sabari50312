@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I am a Computer Science 🖥 student currently working on building my skills 😄
-#### And I love building stuff  🛠 
+ I am a Computer Science 🖥 student currently working on building my skills 😄
+ And I love creating stuff  ⚒️
 ### 📫 How to reach me: 
 - LinkedIn: [sabari50312](https://www.linkedin.com/in/sabari50312/)
 <!--
