@@ -45,6 +45,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabari50312&show_icons=true&theme=dark&locale=en" alt="sabari50312" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabari50312&show_icons=true&theme=dark&locale=en" alt="sabari50312" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabari50312&theme=dark" alt="sabari50312" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabari50312&theme=dark" alt="sabari50312" /></p>
