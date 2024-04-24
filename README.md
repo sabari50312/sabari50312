@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, React**
 
-- 👨‍💻 All of my projects are available at [https://sabari50312.github.io/](https://sabari50312.github.io/)
+- 👨‍💻 All of my projects are available at [https://sabari50312.github.io/](https://sabari50312.github.io/portfolio)
 
 - 📄 Know about my experiences 
    - Intern at Barclays
