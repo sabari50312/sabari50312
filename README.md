@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabari50312&label=Profile%20views&color=0a81ff&style=flat" alt="sabari50312" /> </p>
 
-- 🌱 I’m currently learning **Node.js, React**
-
 - 👨‍💻 All of my projects are available at [https://sabari50312.github.io/](https://sabari50312.github.io/portfolio)
 
 - 📄 Know about my experiences 
