@@ -5,7 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sabari50312.github.io/](https://sabari50312.github.io/portfolio)
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences
+   - Full time employee at Barclays
    - Intern at Barclays
 <h3 align="left">Connect with me:</h3>
 <p align="left">
